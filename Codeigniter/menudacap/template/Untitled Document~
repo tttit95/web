@@ -1,0 +1,22 @@
+custumer:
+	- xem sản phẩm;
+	- seach sp;
+	- add cart;
+	- xem chi tiet;
+frontend:
+	- Khuyến mãi;
+	- Top sp mua nhiều nhất;
+	- Top sp mới;
+	- Tin tức công nghệ
+	- Comment;
+	- Show sp theo hãng
+	- Remove from cart
+	- Chi tiết sp (Product Description)
+	- Related Products
+admin:
+	- add sp;
+	- add category;
+	- show sp(edit, delete);
+	- show category(edit,delete);
+	- phan quyen (quan tri website,quan tri noi dung web,kiem tra don dat hang, thanh vien)
+	

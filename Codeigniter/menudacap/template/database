@@ -1,0 +1,19 @@
+Sản phẩm:
+	- id
+	- idCategory
+	- chi tiết sp
+	- gia ca
+	- image
+Category
+	- id
+	- ten
+Role
+	- id
+	- name
+Cart
+	- idsp
+	- sdt
+	- email
+	- ho va ten
+	- so luong
+
