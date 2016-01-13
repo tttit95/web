@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	text-align: center;
+	color: grey;
+}
+#header{
+	height: 90%;
+	width: 100%;
+	background-color: #2F4F4F;
+}
+#avatar{
+	text-align: center;
+}
+#img{
+	width: 200px;
+	height: 200px;
+}
+#introduce{
+	font-size: 50px;
+	line-height: 1.5em;
+	height: 200px;
+	text-align: center;
+}
+#introduce span{
+	color: black;
+}
+#about{
+	text-align: center;
+}
+#about a{
+	border-bottom: solid;
+	color:white;
+	text-decoration: none;
+}
