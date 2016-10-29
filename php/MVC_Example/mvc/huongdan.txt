@@ -1,1 +1,1 @@
-http://localhost:8080/mvc1/index.php?controller=user&action=dangky
+http://localhost:8080/mvc/index.php?controller=user&action=dangky
